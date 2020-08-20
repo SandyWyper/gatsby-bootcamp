@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@contentful/rich-text-react-renderer": "^13.4.0",
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "gatsby": "^2.19.45",
     "gatsby-cli": "^2.11.3",
     "gatsby-plugin-react-helmet": "^3.2.1",
